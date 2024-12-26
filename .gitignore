@@ -1,0 +1,9 @@
+# Ignorer tous les thèmes Twenty Twenty
+twentytwenty*
+oceanwp
+
+# Ignorer les sauvegardes
+/ai1wm-backups
+
+# Ignorer les plugins
+plugins*
